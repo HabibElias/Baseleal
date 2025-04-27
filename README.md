@@ -1,17 +1,30 @@
 # baseleal
 
-A Mobile application for my church choir called baseleal.
-It has the teams mezmure (Gospel song) lyrics, and our memories in a gallery form.
+- [ ] jjjj
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Mezmure Lyrics**: Access a collection of Gospel song lyrics used by the choir.
+- **Gallery**: View and relive memories through a gallery of photos and videos.
+- **User-Friendly Interface**: Simple and intuitive design for easy navigation.
+- **Offline Access**: Access lyrics and media without an internet connection.
+- **Regular Updates**: Stay up-to-date with new mezmure and gallery additions.
+- **Customizable Settings**: Personalize the app to suit your preferences.
 
-A few resources to get you started if this is your first Flutter project:
+# Home Page
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![1745789848222](image/README/1745789848222.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Gallery Page
+
+![1745789885835](image/README/1745789885835.png)
+
+# Lyrics Page
+
+![1745789904074](image/README/1745789904074.png)
+
+# About Page
+
+![1745789919699](image/README/1745789919699.png)
+![1745789930343](image/README/1745789930343.png)
+![1745789937167](image/README/1745789937167.png)
