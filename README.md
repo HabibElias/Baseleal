@@ -1,6 +1,6 @@
-# baseleal
+# Baseleal
 
-- [ ] jjjj
+- is a mobile application designed to enhance the worship experience for Gospel music enthusiasts. It provides a comprehensive platform for accessing mezmure lyrics, viewing a curated gallery of photos and videos, and enjoying a user-friendly interface. With offline access and regular updates, Baseleal ensures that users can stay connected to their favorite Gospel content anytime, anywhere. The app also offers customizable settings to tailor the experience to individual preferences.
 
 ## Features
 
